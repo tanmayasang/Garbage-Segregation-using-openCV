@@ -1,2 +1,2 @@
 # Garbage-Segregation-using-openCV
-A Garbage Separation System for segregation of images of garbage into different categories
+A Garbage Separation System is basically used for separation of the garbage into different  categories such as Biodegradable wastes or Non-biodegradable wastes. And we are going to  accomplished this using the Hue Moments to extract features and k-means clustering for  training the model.  For this system we are going to make the use of database of 1000 images.   
